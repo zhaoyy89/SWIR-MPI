@@ -1,5 +1,5 @@
 # SWIR-MPI
-code and data for SWIR-MPI
+code for SWIR-MPI
 System Requirements:
 MATLAB software and WINDOWS operating system.
 The code has been tested on WINDOW 7 and WINDOWS 10, MATLAB 2019b and 2020a. 
